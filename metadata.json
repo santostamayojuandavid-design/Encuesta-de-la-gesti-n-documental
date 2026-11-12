@@ -1,0 +1,6 @@
+{
+  "name": "Diagnóstico Ley 594 de 2000 - Valle del Cauca",
+  "description": "Formulario de investigación sobre las causas de no aplicación de lineamientos del AGN (Ley 594 de 2000) en el Valle del Cauca, con análisis estadístico de causas y sincronización con Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
